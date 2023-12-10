@@ -1,1 +1,1 @@
-FROM oamdev/kube-webhook-certgen:v2.4.1
+FROM docker.io/luomonkeyking/kube-webhook-certgen:v1.1.1
